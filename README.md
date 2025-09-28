@@ -1,6 +1,8 @@
 # Research-Fall25
 
 **Core Question**
+
+
 How do changes in policy interest rates(Federal Funds Rate) and market rates(Prime Rate) affect US households’ revolving consumer credit balance and credit card delinquency rates over short, medium, and longer horizons?
 
 **Sub-questions**
