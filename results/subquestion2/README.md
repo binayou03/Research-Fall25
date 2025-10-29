@@ -1,4 +1,6 @@
-**Conclusion**
+# Conclusion
+
+**Sub-question2** : Do higher interest rates lead to higher delinquency and charge-off rates, and if so, with what lag?
 
 The overall result shows that changes in the federal fund rates have comparatively limited and statistically insignificant effects on both charge-off and delinquency rates in the States. When we examine the local projection, it indicates that a one percentage point increase in the federal funds rate is followed by a short-term rise in the delinquency rate and a decrease in the charge-off rate. However, this result isn’t statistically significant, as the 95% confidence interval includes zero. VAR and VARX shows that the delinquency rate and charge-off rates are also driven by their own values, reflecting strong persistence rather than a direct reflection of the monetary policy shocks. 
 
