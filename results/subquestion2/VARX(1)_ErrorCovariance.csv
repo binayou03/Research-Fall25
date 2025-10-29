@@ -1,0 +1,4 @@
+,coef,SE,z,p-value,95% CI
+Std. Deviation of DRCCLACBS residuals,0.1633,0.011,14.8,0,"[0.142, 0.185]"
+Std. Deviation of FEDFUNDS residuals,0.2774,0.015,18.253,0,"[0.248, 0.307]"
+Residual Covariance,0.0087,0.029,0.298,0.765,"[-0.048, 0.066]"

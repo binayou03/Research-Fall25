@@ -1,0 +1,4 @@
+,coef,SE,z,p-value,95% CI
+Std. Deviation of CORCCACBS residuals,0.4769,0.026,18.479,0,"[0.426, 0.528]"
+Std. Deviation of FEDFUNDS residuals,0.2715,0.018,15.143,0,"[0.236, 0.307]"
+Residual Covariance,-0.0003,0.026,-0.0004,0.997,"[-0.137, 0.136]"
